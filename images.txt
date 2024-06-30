@@ -5,4 +5,5 @@ postgres:14
 redis:6.2.12
 mysql:5.7.43
 nodered/node-red
+dpage/pgadmin4:7.6
 rabbitmq:3.12.4-management-alpine
