@@ -6,4 +6,5 @@ redis:6.2.12
 mysql:5.7.43
 nodered/node-red
 dpage/pgadmin4:7.6
+php:7.4.32-fpm-alpine
 rabbitmq:3.12.4-management-alpine
