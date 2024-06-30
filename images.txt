@@ -1,1 +1,8 @@
+nginx
+odoo:16
+odoo:17
+postgres:14
+redis:6.2.12
 mysql:5.7.43
+nodered/node-red
+rabbitmq:3.12.4-management-alpine
