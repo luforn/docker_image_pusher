@@ -10,6 +10,7 @@ mysql:5.7.43
 dpage/pgadmin4:7.6
 php:7.4.32-fpm-alpine
 nodered/node-red:4.0.2
+bitnami/minio:2024.6.28
 eclipse-mosquitto:2.0.18
 rabbitmq:3.12.4-management-alpine
 
