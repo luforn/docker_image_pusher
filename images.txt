@@ -15,4 +15,6 @@ nodered/node-red:4.0.2
 bitnami/minio:2024.6.28
 eclipse-mosquitto:2.0.18
 rabbitmq:3.12.4-management-alpine
+timescale/timescaledb:2.15.3-pg16
+timescale/timescaledb:2.15.3-pg14
 
