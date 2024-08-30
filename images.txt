@@ -1,3 +1,4 @@
+odoo:14
 odoo:16
 odoo:17
 postgres:14
