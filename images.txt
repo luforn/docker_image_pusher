@@ -1,6 +1,7 @@
 odoo:14
 odoo:16
 odoo:17
+postgres:12
 postgres:14
 postgres:16
 redis:7.2
@@ -30,6 +31,7 @@ python:3.10.14
 maxkeytop/maxkey:4.0.0
 maxkeytop/maxkey:4.0.2
 rabbitmq:3.12.4-management-alpine
-timescale/timescaledb:2.15.3-pg16
 timescale/timescaledb:2.15.3-pg14
+timescale/timescaledb:2.15.3-pg16
+
 
