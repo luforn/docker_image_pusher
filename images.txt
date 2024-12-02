@@ -16,9 +16,9 @@ gitea/gitea:1.22.0
 dpage/pgadmin4:7.6
 php:8.3.8-fpm
 php:7.4.32-fpm-alpine
-nodered/node-red:4.0.2
-bitnami/minio:2024.6.28
-eclipse-mosquitto:2.0.18
+nodered/node-red:4.0.5-22
+bitnami/minio:2024.11.7
+eclipse-mosquitto:2.0.20
 python:3.7.16-slim-bullseye
 python:3.7.16-alpine
 python:3.7.16
@@ -29,8 +29,8 @@ python:3.10.14-slim-bullseye
 python:3.10.14-alpine
 python:3.10.14
 maxkeytop/maxkey:4.0.2
-rabbitmq:3.12.4-management-alpine
-timescale/timescaledb:2.15.3-pg14
-timescale/timescaledb:2.15.3-pg16
+rabbitmq:4.0.4-management-alpine
+timescale/timescaledb:2.17.2-pg14
+timescale/timescaledb:2.17.2-pg16
 
 
