@@ -10,6 +10,7 @@ redis:6.2.12
 nginx:1.27.4
 mysql:8.4.4
 mysql:5.7.44
+emqx/emqx:5.9
 python:3.8.20
 python:3.10.16
 python:3.12.10
