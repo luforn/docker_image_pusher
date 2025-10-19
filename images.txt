@@ -17,12 +17,12 @@ python:3.12.10
 n8nio/n8n:1.116.0
 gitea/gitea:1.24.6
 dpage/pgadmin4:9.9
-prom/prometheus:v3.6.0
 maxkeytop/maxkey:4.1.9
 bitnami/minio:2025.3.12
 eclipse-mosquitto:2.0.22
 nodered/node-red:4.1.1-22
 rabbitmq:4.1.4-management
+bitnami/prometheus:2.55.1
 flink:2.1.0-scala_2.12-java17
 flink:2.1.0-scala_2.12-java21
 timescale/timescaledb:2.22.0-pg14
