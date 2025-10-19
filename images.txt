@@ -2,7 +2,6 @@ odoo:14
 odoo:16
 odoo:17
 odoo:18
-postgres:12
 postgres:14
 postgres:16
 redis:8.2.2
@@ -10,24 +9,20 @@ redis:6.2.20
 nginx:1.27.4
 mysql:9.4.0
 mysql:5.7.44
-emqx/emqx:6.0
-python:3.8.20
-python:3.10.16
-python:3.12.10
 gitea/gitea:1.24
 n8nio/n8n:1.116.0
 dpage/pgadmin4:9.9
+grafana/grafana:12.2
 maxkeytop/maxkey:4.1.9
+nodered/node-red:4.1.0
 bitnami/minio:2025.3.12
 eclipse-mosquitto:2.0.22
-nodered/node-red:4.1.1-22
 rabbitmq:4.1.4-management
 bitnami/prometheus:2.55.1
 flink:2.1.0-scala_2.12-java17
 flink:2.1.0-scala_2.12-java21
 timescale/timescaledb:2.22.0-pg14
 timescale/timescaledb:2.22.0-pg16
-grafana/grafana:12.3.0-18578466485
 
 
 
