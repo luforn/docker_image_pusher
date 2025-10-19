@@ -23,12 +23,12 @@ maxkeytop/maxkey:4.1.9
 nodered/node-red:4.1.0
 prom/prometheus:v3.7.0
 rabbitmq:4.1-management
-bitnami/minio:2025.3.12
-eclipse-mosquitto:2.0.20
+eclipse-mosquitto:2.0.22
 flink:2.1.0-scala_2.12-java17
 flink:2.1.0-scala_2.12-java21
 timescale/timescaledb:2.19.2-pg14
-timescale/timescaledb:2.22.0-pg16
+timescale/timescaledb:2.21.0-pg16
+minio/minio:RELEASE.2025-05-24T17-08-30Z
 
 
 
